@@ -4,7 +4,7 @@
 
 - 👨‍🎓 <i>Cursando Engenharia de Software</i>
 - 🌱 <i>Estudando JavaScript ...</i>
-- 📫 <i>Contate-me pelo email:</i> <b>josefranc1sco@outlook.com</b>
+- 📫 <i>Contato pelo email:</i> <b>josefranc1sco@outlook.com</b>
 
 <div align="center">
   <a href="https://github.com/juze123">
